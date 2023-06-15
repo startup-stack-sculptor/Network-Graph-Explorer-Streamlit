@@ -1,0 +1,10 @@
+** Network-Graph-Explorer-Streamlit
+This repository contains a web-based network graph explorer built with Streamlit, a Python library for creating interactive data applications. The application allows users to visualize and explore network graphs, enabling analysis and understanding of social connections, similar to platforms like LinkedIn or Facebook.
+
+*** Features
+- Interactive visualization of network graphs with interactive elements for exploration.
+- Ability to customize node and edge properties, such as size, color, and labels.
+- Interactive filtering and search functionality to focus on specific nodes or connections.
+- Layout algorithms to arrange the nodes in different configurations.
+- Zoom and pan functionality for exploring large network graphs.
+- Export options to save the visualization as an image or data file.
